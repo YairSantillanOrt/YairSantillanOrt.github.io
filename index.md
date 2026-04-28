@@ -4,7 +4,7 @@ This is my home page! My name is Yair Alexander Santillan-Ortega and I am a stud
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/YairSantillanOrt.
+My GitHub page is [http://github.com/YairSantillanOrt](http://github.com/YairSantillanOrt).
 
 ### CPSC 120
 
